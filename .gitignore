@@ -1,6 +1,7 @@
 ### Project Specific
 .idea/
 datasets/
+runs/
 
 ### Python template
 # Byte-compiled / optimized / DLL files
