@@ -1,0 +1,12 @@
+names:
+  - pothole
+nc: 1
+#roboflow:
+#  license: ODbL v1.0
+#  project: pothole-u8cau
+#  url: https://app.roboflow.com/crowsnest/pothole-u8cau/1
+#  version: 1
+#  workspace: crowsnest
+test: pothole_detection_roboflow/test/images
+train: pothole_detection_roboflow/train/images
+val: pothole_detection_roboflow/valid/images
