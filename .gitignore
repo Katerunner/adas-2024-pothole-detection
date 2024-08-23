@@ -2,8 +2,10 @@
 .idea/
 datasets/
 runs/
+wandb/
 *.pt
 *.csv
+unlabeled*/
 
 ### Python template
 # Byte-compiled / optimized / DLL files
