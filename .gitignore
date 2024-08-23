@@ -3,6 +3,7 @@
 datasets/
 runs/
 *.pt
+*.csv
 
 ### Python template
 # Byte-compiled / optimized / DLL files
